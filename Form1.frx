@@ -1,0 +1,12 @@
+ÿThe SizeBar control provides all the funcitonality of your common splitter control as well as advanced capabilities such as: 
+
+1. Multiple Border styles
+2. Ability to contain other controls within it
+3. Animation capabilties
+4. Horzontal / Vertical orientation
+5. Ability to control which edges are painted
+6. BackColor and HighlightColor (color shown while dragging)
+7. Turn on/off the painting of border while dragging SizeBar
+8. Control Maximum / Minimum Top and Left properties to limit movement
+
+Don't Forget To Vote!
